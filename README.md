@@ -5,7 +5,7 @@ This is a brief website that involves sale of clothing items online.
 
 The following are the setup requirements:
 
-Create an account on Github Fork the repository from Github: https://github.com/Andy98-cloud/assignment-project-1.git Clone the link Open the link from where the repository is saved
+Create an account on Github Fork the repository from Github: https://github.com/Andy98-cloud/moringa-school-project-1 Clone the link Open the link from where the repository is saved
 
 Features As a user of this website you'll be required to:
 
